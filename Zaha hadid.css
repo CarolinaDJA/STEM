@@ -10,5 +10,10 @@ h2{
   font-size:25px;  
   text-align:center;
 }
-
+img{
+height:200px;
+weidth:100px;
+margin:left;
+display:block;
+}
 
